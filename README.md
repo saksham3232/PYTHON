@@ -34,10 +34,6 @@ This repository serves as a comprehensive resource for learning Python, ranging 
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit pull requests. For issues or suggestions, please use the Issues tab.
 
-## License
-
-Currently, there is no license specified for this repository. Please contact the repository owner for usage permissions.
-
 ## Author
 
 - [saksham3232](https://github.com/saksham3232)
